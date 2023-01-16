@@ -2,3 +2,11 @@ nodejs
 laravel
 python
 javascript
+reactjs
+vuejs
+angularjs
+angular
+typescript
+nodejs
+php
+java
